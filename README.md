@@ -17,7 +17,7 @@ know whether this package might be useful for them.
 ## Features
 
 This is inspired [Near API JS](https://github.com/near/near-api-js)
-Implementing
+Implementing status:
 ☑ KeyPair
 ☑ Signer
 ☑ RPC Provider
@@ -25,8 +25,17 @@ Implementing
 
 ## Getting started
 
+To run test cases, use this command
 
+```dart
+flutter test test/key_pair_test.dart   
+```
 
-## Additional information
+## Roadmap
+
+☐ KeyPair storage
+☐ Multiple Accounts
+☐ Example
+
 
 
